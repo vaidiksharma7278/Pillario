@@ -1,0 +1,15 @@
+body{
+  background:black;
+  color: white;
+  margin-left:25%;
+  margin-right: 25%;
+}
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+@media  screen and (max-width:768px) {
+  body{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}

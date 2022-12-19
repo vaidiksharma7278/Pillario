@@ -1,0 +1,41 @@
+.div-7{
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+ul{
+    list-style:none;
+}
+
+input{
+    margin-top: 5px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: white;
+    width: 95%;
+}  
+.radio-btn-container {
+    display: flex;
+    width: 100%;
+   
+    justify-content: center;
+  }
+  
+.radio-btn {
+    margin: 5px;
+   
+  }
+  .buttons {
+    
+    border-radius: 10px;
+    
+   
+    font-size: 13px;
+    background: #ffffff;
+    padding: 10px 25px 10px 25px;
+    border: solid #ededed 2px;
+    text-decoration: none;
+  }

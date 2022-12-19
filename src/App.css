@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+#video{
+  position: fixed;
+  z-index: -4;
+  width: 100%;
+  align-items: center;
+}

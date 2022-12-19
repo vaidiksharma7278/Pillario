@@ -1,0 +1,60 @@
+.header-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.icon{
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+}
+.button{
+    border-radius: 20px;
+    color: #2A4FFE;
+    padding: 10px;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.profile{
+    width: 98px;
+    border-radius: 100px;
+
+}
+.header-top h3{
+   
+    font-size: 1rem;
+    line-height: 0.8rem;
+    font-weight: 700;
+    text-align: center;
+}
+.para{
+    font-size: 0.9rem;
+    line-height: 0.5rem;
+    font-weight: 500px;
+}
+.icons{
+    
+    background-color: transparent;
+    border: 5px solid black;
+    padding: 3px;
+  
+    margin:10px;
+   
+   
+}
+@media screen and (max-width:768px) {
+    .icon{
+        size: 20px;
+    }
+    .para{
+    font-size: 0.6rem;
+    }
+    .header-top h3{
+        font-size: 0.7rem;
+    }
+    .button{
+        padding: 7px;
+        font-size: 0.6rem;
+    }
+}
