@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Pillario/static/css/main.a43d9f32.css",
+    "main.js": "/Pillario/static/js/main.e264ce9f.js",
+    "static/media/Background.mp4": "/Pillario/static/media/Background.4382178b6fe4115786c0.mp4",
+    "static/media/Meal.png": "/Pillario/static/media/Meal.4df15c582e4fa6c699c5.png",
+    "static/media/Four.png": "/Pillario/static/media/Four.68d2658578bda9fc6dd6.png",
+    "static/media/Weekly.png": "/Pillario/static/media/Weekly.5d25b3d49e2c9a2c28fc.png",
+    "static/media/Profile.jpeg": "/Pillario/static/media/Profile.8621209c28153679badc.jpeg",
+    "index.html": "/Pillario/index.html",
+    "main.a43d9f32.css.map": "/Pillario/static/css/main.a43d9f32.css.map",
+    "main.e264ce9f.js.map": "/Pillario/static/js/main.e264ce9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a43d9f32.css",
+    "static/js/main.e264ce9f.js"
+  ]
+}
